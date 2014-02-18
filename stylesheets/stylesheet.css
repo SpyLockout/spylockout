@@ -265,6 +265,20 @@ img {
   max-width: 100%;
 }
 
+
+.social{
+text-align:center;
+
+}
+
+.social img {
+width: 35px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
+
 /*******************************************************************************
 Full-Width Styles
 *******************************************************************************/
@@ -364,7 +378,7 @@ Full-Width Styles
 }
 
 #footer_wrap {
-  background: #212121;
+  background: #A2A2A2;
 }
 
 
@@ -420,5 +434,7 @@ Small Device Styles
     max-width: 480px;
     font-size: 11px;
   }
+
+
 
 }
